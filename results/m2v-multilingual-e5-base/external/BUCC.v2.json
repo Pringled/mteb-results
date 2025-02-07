@@ -1,0 +1,59 @@
+{
+  "dataset_revision": "1739dc11ffe9b7bfccd7f3d585aeb4c544fc6677",
+  "task_name": "BUCC.v2",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "precision": 0.007765,
+        "recall": 0.015408,
+        "f1": 0.008981,
+        "accuracy": 0.015408,
+        "main_score": 0.008981,
+        "hf_subset": "fr-en",
+        "languages": [
+          "fra-Latn",
+          "eng-Latn"
+        ]
+      },
+      {
+        "precision": 0.011377,
+        "recall": 0.016851,
+        "f1": 0.012498,
+        "accuracy": 0.016851,
+        "main_score": 0.012498,
+        "hf_subset": "zh-en",
+        "languages": [
+          "cmn-Hans",
+          "eng-Latn"
+        ]
+      },
+      {
+        "precision": 0.006458,
+        "recall": 0.011915,
+        "f1": 0.007436,
+        "accuracy": 0.011915,
+        "main_score": 0.007436,
+        "hf_subset": "ru-en",
+        "languages": [
+          "rus-Cyrl",
+          "eng-Latn"
+        ]
+      },
+      {
+        "precision": 0.014633,
+        "recall": 0.023591,
+        "f1": 0.01635,
+        "accuracy": 0.023591,
+        "main_score": 0.01635,
+        "hf_subset": "de-en",
+        "languages": [
+          "deu-Latn",
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 8.04459285736084,
+  "kg_co2_emissions": null
+}

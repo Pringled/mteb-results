@@ -1,0 +1,95 @@
+{
+  "dataset_revision": "f334d90a9f68cc3af78cc2a2ece6a3b69408124c",
+  "task_name": "KurdishSentimentClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.551434,
+        "f1": 0.54686,
+        "f1_weighted": 0.548575,
+        "ap": 0.566576,
+        "ap_weighted": 0.566576,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.568193,
+            "f1": 0.56607,
+            "f1_weighted": 0.568254,
+            "ap": 0.572634,
+            "ap_weighted": 0.572634
+          },
+          {
+            "accuracy": 0.634625,
+            "f1": 0.634345,
+            "f1_weighted": 0.635073,
+            "ap": 0.620941,
+            "ap_weighted": 0.620941
+          },
+          {
+            "accuracy": 0.446402,
+            "f1": 0.438136,
+            "f1_weighted": 0.443041,
+            "ap": 0.508959,
+            "ap_weighted": 0.508959
+          },
+          {
+            "accuracy": 0.523402,
+            "f1": 0.510384,
+            "f1_weighted": 0.51613,
+            "ap": 0.543263,
+            "ap_weighted": 0.543263
+          },
+          {
+            "accuracy": 0.572219,
+            "f1": 0.557449,
+            "f1_weighted": 0.563268,
+            "ap": 0.569557,
+            "ap_weighted": 0.569557
+          },
+          {
+            "accuracy": 0.603422,
+            "f1": 0.603181,
+            "f1_weighted": 0.603885,
+            "ap": 0.598473,
+            "ap_weighted": 0.598473
+          },
+          {
+            "accuracy": 0.463513,
+            "f1": 0.459123,
+            "f1_weighted": 0.455617,
+            "ap": 0.523214,
+            "ap_weighted": 0.523214
+          },
+          {
+            "accuracy": 0.615501,
+            "f1": 0.614208,
+            "f1_weighted": 0.615815,
+            "ap": 0.604546,
+            "ap_weighted": 0.604546
+          },
+          {
+            "accuracy": 0.522396,
+            "f1": 0.521231,
+            "f1_weighted": 0.519532,
+            "ap": 0.551167,
+            "ap_weighted": 0.551167
+          },
+          {
+            "accuracy": 0.56467,
+            "f1": 0.564476,
+            "f1_weighted": 0.565138,
+            "ap": 0.573008,
+            "ap_weighted": 0.573008
+          }
+        ],
+        "main_score": 0.551434,
+        "hf_subset": "default",
+        "languages": [
+          "kur-Arab"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 0.35912299156188965,
+  "kg_co2_emissions": null
+}

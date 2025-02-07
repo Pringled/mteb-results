@@ -1,0 +1,81 @@
+{
+  "dataset_revision": "e42d330f33d65b7b72dfd408883daf1661f06f18",
+  "task_name": "CyrillicTurkicLangClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.535059,
+        "f1": 0.538744,
+        "f1_weighted": 0.538773,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.54541,
+            "f1": 0.546744,
+            "f1_weighted": 0.546743
+          },
+          {
+            "accuracy": 0.543945,
+            "f1": 0.553494,
+            "f1_weighted": 0.553484
+          },
+          {
+            "accuracy": 0.549316,
+            "f1": 0.548379,
+            "f1_weighted": 0.548433
+          },
+          {
+            "accuracy": 0.564453,
+            "f1": 0.567662,
+            "f1_weighted": 0.567678
+          },
+          {
+            "accuracy": 0.518555,
+            "f1": 0.514958,
+            "f1_weighted": 0.515016
+          },
+          {
+            "accuracy": 0.520508,
+            "f1": 0.525236,
+            "f1_weighted": 0.525256
+          },
+          {
+            "accuracy": 0.545898,
+            "f1": 0.552598,
+            "f1_weighted": 0.552661
+          },
+          {
+            "accuracy": 0.510742,
+            "f1": 0.521231,
+            "f1_weighted": 0.521302
+          },
+          {
+            "accuracy": 0.530762,
+            "f1": 0.533333,
+            "f1_weighted": 0.533337
+          },
+          {
+            "accuracy": 0.520996,
+            "f1": 0.523804,
+            "f1_weighted": 0.523822
+          }
+        ],
+        "main_score": 0.535059,
+        "hf_subset": "default",
+        "languages": [
+          "bak-Cyrl",
+          "chv-Cyrl",
+          "tat-Cyrl",
+          "kir-Cyrl",
+          "rus-Cyrl",
+          "kaz-Cyrl",
+          "tyv-Cyrl",
+          "krc-Cyrl",
+          "sah-Cyrl"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 1.063490867614746,
+  "kg_co2_emissions": null
+}
