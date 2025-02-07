@@ -1,0 +1,137 @@
+{
+  "dataset_revision": "de0fdb34424f07d1ac6f0ede23ee0ed44bd9f5d1",
+  "task_name": "GreekLegalCodeClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "validation": [
+      {
+        "accuracy": 0.187988,
+        "f1": 0.15394,
+        "f1_weighted": 0.2001,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.18457,
+            "f1": 0.152615,
+            "f1_weighted": 0.196907
+          },
+          {
+            "accuracy": 0.188477,
+            "f1": 0.160469,
+            "f1_weighted": 0.199203
+          },
+          {
+            "accuracy": 0.189941,
+            "f1": 0.157894,
+            "f1_weighted": 0.203109
+          },
+          {
+            "accuracy": 0.180664,
+            "f1": 0.143262,
+            "f1_weighted": 0.193536
+          },
+          {
+            "accuracy": 0.19043,
+            "f1": 0.152992,
+            "f1_weighted": 0.20374
+          },
+          {
+            "accuracy": 0.178223,
+            "f1": 0.147958,
+            "f1_weighted": 0.19031
+          },
+          {
+            "accuracy": 0.214844,
+            "f1": 0.164052,
+            "f1_weighted": 0.229887
+          },
+          {
+            "accuracy": 0.179688,
+            "f1": 0.151071,
+            "f1_weighted": 0.18888
+          },
+          {
+            "accuracy": 0.198242,
+            "f1": 0.164741,
+            "f1_weighted": 0.208073
+          },
+          {
+            "accuracy": 0.174805,
+            "f1": 0.144341,
+            "f1_weighted": 0.187355
+          }
+        ],
+        "main_score": 0.187988,
+        "hf_subset": "default",
+        "languages": [
+          "ell-Grek"
+        ]
+      }
+    ],
+    "test": [
+      {
+        "accuracy": 0.194727,
+        "f1": 0.164677,
+        "f1_weighted": 0.203232,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.20166,
+            "f1": 0.165501,
+            "f1_weighted": 0.21276
+          },
+          {
+            "accuracy": 0.188477,
+            "f1": 0.16111,
+            "f1_weighted": 0.196312
+          },
+          {
+            "accuracy": 0.175293,
+            "f1": 0.143518,
+            "f1_weighted": 0.184521
+          },
+          {
+            "accuracy": 0.196777,
+            "f1": 0.163867,
+            "f1_weighted": 0.204173
+          },
+          {
+            "accuracy": 0.208496,
+            "f1": 0.171712,
+            "f1_weighted": 0.218907
+          },
+          {
+            "accuracy": 0.195801,
+            "f1": 0.169553,
+            "f1_weighted": 0.205403
+          },
+          {
+            "accuracy": 0.199707,
+            "f1": 0.170573,
+            "f1_weighted": 0.207395
+          },
+          {
+            "accuracy": 0.207031,
+            "f1": 0.174455,
+            "f1_weighted": 0.21456
+          },
+          {
+            "accuracy": 0.1875,
+            "f1": 0.159595,
+            "f1_weighted": 0.194186
+          },
+          {
+            "accuracy": 0.186523,
+            "f1": 0.166884,
+            "f1_weighted": 0.194108
+          }
+        ],
+        "main_score": 0.194727,
+        "hf_subset": "default",
+        "languages": [
+          "ell-Grek"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 114.92391514778137,
+  "kg_co2_emissions": null
+}

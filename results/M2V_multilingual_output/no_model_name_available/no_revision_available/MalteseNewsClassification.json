@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "6bb0321659c4f07c4c2176c30c98c971be6571b4",
+  "task_name": "MalteseNewsClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.131476,
+        "f1": 0.130998,
+        "lrap": 0.219948,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.139312,
+            "f1": 0.121558,
+            "lrap": 0.23101
+          },
+          {
+            "accuracy": 0.12451,
+            "f1": 0.123345,
+            "lrap": 0.212598
+          },
+          {
+            "accuracy": 0.122333,
+            "f1": 0.108788,
+            "lrap": 0.210456
+          },
+          {
+            "accuracy": 0.079234,
+            "f1": 0.112187,
+            "lrap": 0.169228
+          },
+          {
+            "accuracy": 0.099695,
+            "f1": 0.128824,
+            "lrap": 0.18406
+          },
+          {
+            "accuracy": 0.162821,
+            "f1": 0.148812,
+            "lrap": 0.247538
+          },
+          {
+            "accuracy": 0.146713,
+            "f1": 0.128076,
+            "lrap": 0.227897
+          },
+          {
+            "accuracy": 0.172399,
+            "f1": 0.158393,
+            "lrap": 0.267783
+          },
+          {
+            "accuracy": 0.157597,
+            "f1": 0.129358,
+            "lrap": 0.243317
+          },
+          {
+            "accuracy": 0.110144,
+            "f1": 0.150637,
+            "lrap": 0.205589
+          }
+        ],
+        "main_score": 0.131476,
+        "hf_subset": "default",
+        "languages": [
+          "mlt-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 2.444267988204956,
+  "kg_co2_emissions": null
+}
