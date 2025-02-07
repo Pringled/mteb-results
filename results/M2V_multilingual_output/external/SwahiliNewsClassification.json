@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "24fcf066e6b96f9e0d743e8b79184e0c599f73c3",
+  "task_name": "SwahiliNewsClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "train": [
+      {
+        "accuracy": 0.545898,
+        "f1": 0.496786,
+        "f1_weighted": 0.565792,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.539551,
+            "f1": 0.496251,
+            "f1_weighted": 0.557486
+          },
+          {
+            "accuracy": 0.587891,
+            "f1": 0.553148,
+            "f1_weighted": 0.602029
+          },
+          {
+            "accuracy": 0.547852,
+            "f1": 0.488188,
+            "f1_weighted": 0.56979
+          },
+          {
+            "accuracy": 0.486328,
+            "f1": 0.43823,
+            "f1_weighted": 0.51826
+          },
+          {
+            "accuracy": 0.557129,
+            "f1": 0.52246,
+            "f1_weighted": 0.578825
+          },
+          {
+            "accuracy": 0.591309,
+            "f1": 0.522963,
+            "f1_weighted": 0.617813
+          },
+          {
+            "accuracy": 0.532715,
+            "f1": 0.474102,
+            "f1_weighted": 0.539362
+          },
+          {
+            "accuracy": 0.57959,
+            "f1": 0.525204,
+            "f1_weighted": 0.597551
+          },
+          {
+            "accuracy": 0.490234,
+            "f1": 0.463785,
+            "f1_weighted": 0.512151
+          },
+          {
+            "accuracy": 0.546387,
+            "f1": 0.483531,
+            "f1_weighted": 0.564658
+          }
+        ],
+        "main_score": 0.545898,
+        "hf_subset": "default",
+        "languages": [
+          "swa-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 1.6472182273864746,
+  "kg_co2_emissions": null
+}

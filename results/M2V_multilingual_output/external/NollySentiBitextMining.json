@@ -1,0 +1,59 @@
+{
+  "dataset_revision": "d48254fbdb51af1ae7f20831aab0bccf0b70a19c",
+  "task_name": "NollySentiBitextMining",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "train": [
+      {
+        "precision": 0.238348,
+        "recall": 0.321951,
+        "f1": 0.255602,
+        "accuracy": 0.321951,
+        "main_score": 0.255602,
+        "hf_subset": "en-ha",
+        "languages": [
+          "eng-Latn",
+          "hau-Latn"
+        ]
+      },
+      {
+        "precision": 0.166576,
+        "recall": 0.24878,
+        "f1": 0.183313,
+        "accuracy": 0.24878,
+        "main_score": 0.183313,
+        "hf_subset": "en-ig",
+        "languages": [
+          "eng-Latn",
+          "ibo-Latn"
+        ]
+      },
+      {
+        "precision": 0.627318,
+        "recall": 0.695122,
+        "f1": 0.644566,
+        "accuracy": 0.695122,
+        "main_score": 0.644566,
+        "hf_subset": "en-pcm",
+        "languages": [
+          "eng-Latn",
+          "pcm-Latn"
+        ]
+      },
+      {
+        "precision": 0.038383,
+        "recall": 0.07561,
+        "f1": 0.045689,
+        "accuracy": 0.07561,
+        "main_score": 0.045689,
+        "hf_subset": "en-yo",
+        "languages": [
+          "eng-Latn",
+          "yor-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 0.21574902534484863,
+  "kg_co2_emissions": null
+}

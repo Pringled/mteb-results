@@ -1,0 +1,95 @@
+{
+  "dataset_revision": "cec3923e16519efe51d535497e711932b8f1dc44",
+  "task_name": "PunjabiNewsClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.747771,
+        "f1": 0.659636,
+        "f1_weighted": 0.774347,
+        "ap": 0.315631,
+        "ap_weighted": 0.315631,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.802548,
+            "f1": 0.723356,
+            "f1_weighted": 0.822346,
+            "ap": 0.392731,
+            "ap_weighted": 0.392731
+          },
+          {
+            "accuracy": 0.713376,
+            "f1": 0.631513,
+            "f1_weighted": 0.74767,
+            "ap": 0.288176,
+            "ap_weighted": 0.288176
+          },
+          {
+            "accuracy": 0.783439,
+            "f1": 0.680894,
+            "f1_weighted": 0.801875,
+            "ap": 0.321977,
+            "ap_weighted": 0.321977
+          },
+          {
+            "accuracy": 0.783439,
+            "f1": 0.666375,
+            "f1_weighted": 0.798545,
+            "ap": 0.297796,
+            "ap_weighted": 0.297796
+          },
+          {
+            "accuracy": 0.757962,
+            "f1": 0.675902,
+            "f1_weighted": 0.784969,
+            "ap": 0.334075,
+            "ap_weighted": 0.334075
+          },
+          {
+            "accuracy": 0.853503,
+            "f1": 0.738958,
+            "f1_weighted": 0.854605,
+            "ap": 0.390577,
+            "ap_weighted": 0.390577
+          },
+          {
+            "accuracy": 0.713376,
+            "f1": 0.631513,
+            "f1_weighted": 0.74767,
+            "ap": 0.288176,
+            "ap_weighted": 0.288176
+          },
+          {
+            "accuracy": 0.694268,
+            "f1": 0.615667,
+            "f1_weighted": 0.731907,
+            "ap": 0.275996,
+            "ap_weighted": 0.275996
+          },
+          {
+            "accuracy": 0.713376,
+            "f1": 0.637041,
+            "f1_weighted": 0.748363,
+            "ap": 0.298973,
+            "ap_weighted": 0.298973
+          },
+          {
+            "accuracy": 0.66242,
+            "f1": 0.595144,
+            "f1_weighted": 0.705519,
+            "ap": 0.267838,
+            "ap_weighted": 0.267838
+          }
+        ],
+        "main_score": 0.747771,
+        "hf_subset": "default",
+        "languages": [
+          "pan-Guru"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 0.5262820720672607,
+  "kg_co2_emissions": null
+}
