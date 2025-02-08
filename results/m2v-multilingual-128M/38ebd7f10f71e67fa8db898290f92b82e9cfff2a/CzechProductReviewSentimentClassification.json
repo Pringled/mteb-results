@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "2e6fedf42c9c104e83dfd95c3a453721e683e244",
+  "task_name": "CzechProductReviewSentimentClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.450537,
+        "f1": 0.438573,
+        "f1_weighted": 0.438532,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.46875,
+            "f1": 0.471154,
+            "f1_weighted": 0.471152
+          },
+          {
+            "accuracy": 0.392578,
+            "f1": 0.389708,
+            "f1_weighted": 0.38967
+          },
+          {
+            "accuracy": 0.45459,
+            "f1": 0.42953,
+            "f1_weighted": 0.429457
+          },
+          {
+            "accuracy": 0.448242,
+            "f1": 0.429932,
+            "f1_weighted": 0.429878
+          },
+          {
+            "accuracy": 0.44873,
+            "f1": 0.440407,
+            "f1_weighted": 0.440362
+          },
+          {
+            "accuracy": 0.440918,
+            "f1": 0.420995,
+            "f1_weighted": 0.420937
+          },
+          {
+            "accuracy": 0.470215,
+            "f1": 0.460849,
+            "f1_weighted": 0.460806
+          },
+          {
+            "accuracy": 0.478516,
+            "f1": 0.470805,
+            "f1_weighted": 0.470775
+          },
+          {
+            "accuracy": 0.454102,
+            "f1": 0.448484,
+            "f1_weighted": 0.448481
+          },
+          {
+            "accuracy": 0.44873,
+            "f1": 0.423864,
+            "f1_weighted": 0.4238
+          }
+        ],
+        "main_score": 0.450537,
+        "hf_subset": "default",
+        "languages": [
+          "ces-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 0.9508321285247803,
+  "kg_co2_emissions": null
+}

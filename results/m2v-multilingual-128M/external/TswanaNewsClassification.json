@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "061ca1525717eebaaa9bada240f6cbb31eb3aa87",
+  "task_name": "TswanaNewsClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.231006,
+        "f1": 0.213121,
+        "f1_weighted": 0.217878,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.211499,
+            "f1": 0.203809,
+            "f1_weighted": 0.202545
+          },
+          {
+            "accuracy": 0.203285,
+            "f1": 0.187682,
+            "f1_weighted": 0.17621
+          },
+          {
+            "accuracy": 0.234086,
+            "f1": 0.228029,
+            "f1_weighted": 0.22838
+          },
+          {
+            "accuracy": 0.195072,
+            "f1": 0.192731,
+            "f1_weighted": 0.170733
+          },
+          {
+            "accuracy": 0.219713,
+            "f1": 0.190697,
+            "f1_weighted": 0.183342
+          },
+          {
+            "accuracy": 0.244353,
+            "f1": 0.239523,
+            "f1_weighted": 0.234683
+          },
+          {
+            "accuracy": 0.172485,
+            "f1": 0.159639,
+            "f1_weighted": 0.162713
+          },
+          {
+            "accuracy": 0.293634,
+            "f1": 0.247055,
+            "f1_weighted": 0.279063
+          },
+          {
+            "accuracy": 0.26078,
+            "f1": 0.241785,
+            "f1_weighted": 0.249615
+          },
+          {
+            "accuracy": 0.275154,
+            "f1": 0.240256,
+            "f1_weighted": 0.291496
+          }
+        ],
+        "main_score": 0.231006,
+        "hf_subset": "default",
+        "languages": [
+          "tsn-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 0.9773678779602051,
+  "kg_co2_emissions": null
+}
