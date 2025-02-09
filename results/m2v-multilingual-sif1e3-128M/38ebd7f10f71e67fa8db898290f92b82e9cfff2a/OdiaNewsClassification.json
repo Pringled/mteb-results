@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "ffb8a34c9637fb20256e8c7be02504d16af4bd6b",
+  "task_name": "OdiaNewsClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.56875,
+        "f1": 0.55706,
+        "f1_weighted": 0.559838,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.586914,
+            "f1": 0.575176,
+            "f1_weighted": 0.579624
+          },
+          {
+            "accuracy": 0.603027,
+            "f1": 0.613266,
+            "f1_weighted": 0.604513
+          },
+          {
+            "accuracy": 0.597656,
+            "f1": 0.582586,
+            "f1_weighted": 0.590815
+          },
+          {
+            "accuracy": 0.524414,
+            "f1": 0.494894,
+            "f1_weighted": 0.512334
+          },
+          {
+            "accuracy": 0.589844,
+            "f1": 0.594709,
+            "f1_weighted": 0.590328
+          },
+          {
+            "accuracy": 0.564453,
+            "f1": 0.536657,
+            "f1_weighted": 0.548003
+          },
+          {
+            "accuracy": 0.552734,
+            "f1": 0.561396,
+            "f1_weighted": 0.552015
+          },
+          {
+            "accuracy": 0.521973,
+            "f1": 0.528845,
+            "f1_weighted": 0.509916
+          },
+          {
+            "accuracy": 0.568359,
+            "f1": 0.548321,
+            "f1_weighted": 0.559414
+          },
+          {
+            "accuracy": 0.578125,
+            "f1": 0.534749,
+            "f1_weighted": 0.551419
+          }
+        ],
+        "main_score": 0.55706,
+        "hf_subset": "default",
+        "languages": [
+          "ory-Orya"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 0.41097092628479004,
+  "kg_co2_emissions": null
+}
