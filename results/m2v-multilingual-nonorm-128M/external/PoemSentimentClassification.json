@@ -1,0 +1,137 @@
+{
+  "dataset_revision": "329d529d875a00c47ec71954a1a96ae167584770",
+  "task_name": "PoemSentimentClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "validation": [
+      {
+        "accuracy": 0.38381,
+        "f1": 0.296916,
+        "f1_weighted": 0.465551,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.342857,
+            "f1": 0.315994,
+            "f1_weighted": 0.45102
+          },
+          {
+            "accuracy": 0.466667,
+            "f1": 0.35506,
+            "f1_weighted": 0.549966
+          },
+          {
+            "accuracy": 0.438095,
+            "f1": 0.336748,
+            "f1_weighted": 0.513999
+          },
+          {
+            "accuracy": 0.409524,
+            "f1": 0.291196,
+            "f1_weighted": 0.510436
+          },
+          {
+            "accuracy": 0.457143,
+            "f1": 0.326315,
+            "f1_weighted": 0.518503
+          },
+          {
+            "accuracy": 0.380952,
+            "f1": 0.280463,
+            "f1_weighted": 0.451775
+          },
+          {
+            "accuracy": 0.352381,
+            "f1": 0.247241,
+            "f1_weighted": 0.449799
+          },
+          {
+            "accuracy": 0.380952,
+            "f1": 0.322184,
+            "f1_weighted": 0.4691
+          },
+          {
+            "accuracy": 0.32381,
+            "f1": 0.261521,
+            "f1_weighted": 0.386731
+          },
+          {
+            "accuracy": 0.285714,
+            "f1": 0.23244,
+            "f1_weighted": 0.354184
+          }
+        ],
+        "main_score": 0.38381,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ],
+    "test": [
+      {
+        "accuracy": 0.348077,
+        "f1": 0.266821,
+        "f1_weighted": 0.418614,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.298077,
+            "f1": 0.239938,
+            "f1_weighted": 0.388175
+          },
+          {
+            "accuracy": 0.346154,
+            "f1": 0.285261,
+            "f1_weighted": 0.413053
+          },
+          {
+            "accuracy": 0.432692,
+            "f1": 0.303411,
+            "f1_weighted": 0.499344
+          },
+          {
+            "accuracy": 0.346154,
+            "f1": 0.27266,
+            "f1_weighted": 0.448054
+          },
+          {
+            "accuracy": 0.346154,
+            "f1": 0.244958,
+            "f1_weighted": 0.399232
+          },
+          {
+            "accuracy": 0.442308,
+            "f1": 0.309151,
+            "f1_weighted": 0.502802
+          },
+          {
+            "accuracy": 0.355769,
+            "f1": 0.247394,
+            "f1_weighted": 0.442686
+          },
+          {
+            "accuracy": 0.298077,
+            "f1": 0.279314,
+            "f1_weighted": 0.377398
+          },
+          {
+            "accuracy": 0.307692,
+            "f1": 0.226712,
+            "f1_weighted": 0.353914
+          },
+          {
+            "accuracy": 0.307692,
+            "f1": 0.259413,
+            "f1_weighted": 0.361477
+          }
+        ],
+        "main_score": 0.348077,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 1.0098884105682373,
+  "kg_co2_emissions": null
+}

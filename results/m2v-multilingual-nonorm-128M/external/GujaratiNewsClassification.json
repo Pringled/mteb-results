@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "1a5f2fa2914bfeff4fcdc6fff4194fa8ec8fa19e",
+  "task_name": "GujaratiNewsClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.62739,
+        "f1": 0.596118,
+        "f1_weighted": 0.623558,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.606222,
+            "f1": 0.560292,
+            "f1_weighted": 0.588681
+          },
+          {
+            "accuracy": 0.632777,
+            "f1": 0.604575,
+            "f1_weighted": 0.635165
+          },
+          {
+            "accuracy": 0.644158,
+            "f1": 0.611776,
+            "f1_weighted": 0.636277
+          },
+          {
+            "accuracy": 0.691199,
+            "f1": 0.636264,
+            "f1_weighted": 0.684002
+          },
+          {
+            "accuracy": 0.641123,
+            "f1": 0.621256,
+            "f1_weighted": 0.636663
+          },
+          {
+            "accuracy": 0.631259,
+            "f1": 0.606927,
+            "f1_weighted": 0.638667
+          },
+          {
+            "accuracy": 0.594082,
+            "f1": 0.550511,
+            "f1_weighted": 0.587956
+          },
+          {
+            "accuracy": 0.607739,
+            "f1": 0.583369,
+            "f1_weighted": 0.603231
+          },
+          {
+            "accuracy": 0.584977,
+            "f1": 0.577854,
+            "f1_weighted": 0.593868
+          },
+          {
+            "accuracy": 0.640364,
+            "f1": 0.608351,
+            "f1_weighted": 0.631067
+          }
+        ],
+        "main_score": 0.62739,
+        "hf_subset": "default",
+        "languages": [
+          "guj-Gujr"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 0.3215188980102539,
+  "kg_co2_emissions": null
+}

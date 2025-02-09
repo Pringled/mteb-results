@@ -1,0 +1,26 @@
+{
+  "dataset_revision": "2e96b8f098fa4b0950fc58eacadeb31c0d0c7fa2",
+  "task_name": "RuBQReranking",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "map": 0.400437,
+        "mrr": 0.447235,
+        "nAUC_map_max": 0.024044,
+        "nAUC_map_std": 0.096655,
+        "nAUC_map_diff1": 0.155096,
+        "nAUC_mrr_max": 0.035409,
+        "nAUC_mrr_std": 0.072686,
+        "nAUC_mrr_diff1": 0.14822,
+        "main_score": 0.400437,
+        "hf_subset": "default",
+        "languages": [
+          "rus-Cyrl"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 162.4994728565216,
+  "kg_co2_emissions": null
+}

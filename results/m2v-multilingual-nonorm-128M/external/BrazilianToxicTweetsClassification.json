@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "f333c1fcfa3ab43f008a327c8bd0140441354d34",
+  "task_name": "BrazilianToxicTweetsClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.225098,
+        "f1": 0.117594,
+        "lrap": 0.755697,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.1875,
+            "f1": 0.142258,
+            "lrap": 0.821045
+          },
+          {
+            "accuracy": 0.338379,
+            "f1": 0.069032,
+            "lrap": 0.694621
+          },
+          {
+            "accuracy": 0.187988,
+            "f1": 0.136348,
+            "lrap": 0.767008
+          },
+          {
+            "accuracy": 0.330078,
+            "f1": 0.10932,
+            "lrap": 0.727919
+          },
+          {
+            "accuracy": 0.095215,
+            "f1": 0.145877,
+            "lrap": 0.782633
+          },
+          {
+            "accuracy": 0.206055,
+            "f1": 0.126357,
+            "lrap": 0.751126
+          },
+          {
+            "accuracy": 0.146484,
+            "f1": 0.107092,
+            "lrap": 0.744615
+          },
+          {
+            "accuracy": 0.230957,
+            "f1": 0.112643,
+            "lrap": 0.764214
+          },
+          {
+            "accuracy": 0.220703,
+            "f1": 0.128182,
+            "lrap": 0.78125
+          },
+          {
+            "accuracy": 0.307617,
+            "f1": 0.098834,
+            "lrap": 0.722534
+          }
+        ],
+        "main_score": 0.225098,
+        "hf_subset": "default",
+        "languages": [
+          "por-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 0.6566007137298584,
+  "kg_co2_emissions": null
+}
