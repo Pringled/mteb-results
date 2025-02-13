@@ -1,0 +1,267 @@
+{
+  "dataset_revision": "8ccc72e69e65f40c70e117d8b3c08306bb788b60",
+  "task_name": "MasakhaNEWSClusteringS2S",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "v_measure": 0.488661,
+        "v_measure_std": 0.430335,
+        "v_measures": [
+          1.0,
+          0.010143,
+          0.33054,
+          0.102624,
+          1.0
+        ],
+        "main_score": 0.488661,
+        "hf_subset": "amh",
+        "languages": [
+          "amh-Ethi"
+        ]
+      },
+      {
+        "v_measure": 0.038443,
+        "v_measure_std": 0.035495,
+        "v_measures": [
+          0.023185,
+          0.020426,
+          0.037384,
+          0.106362,
+          0.004859
+        ],
+        "main_score": 0.038443,
+        "hf_subset": "eng",
+        "languages": [
+          "eng-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.229273,
+        "v_measure_std": 0.387285,
+        "v_measures": [
+          1.0,
+          0.00011,
+          0.040384,
+          0.000277,
+          0.105596
+        ],
+        "main_score": 0.229273,
+        "hf_subset": "fra",
+        "languages": [
+          "fra-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.060529,
+        "v_measure_std": 0.074133,
+        "v_measures": [
+          0.010847,
+          0.034622,
+          0.012593,
+          0.037403,
+          0.207179
+        ],
+        "main_score": 0.060529,
+        "hf_subset": "hau",
+        "languages": [
+          "hau-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.254365,
+        "v_measure_std": 0.376592,
+        "v_measures": [
+          0.009965,
+          0.020145,
+          0.082798,
+          1.0,
+          0.158916
+        ],
+        "main_score": 0.254365,
+        "hf_subset": "ibo",
+        "languages": [
+          "ibo-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.433879,
+        "v_measure_std": 0.463066,
+        "v_measures": [
+          0.006396,
+          0.075177,
+          1.0,
+          1.0,
+          0.087824
+        ],
+        "main_score": 0.433879,
+        "hf_subset": "lin",
+        "languages": [
+          "lin-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.422205,
+        "v_measure_std": 0.472202,
+        "v_measures": [
+          0.061416,
+          0.000785,
+          1.0,
+          1.0,
+          0.048824
+        ],
+        "main_score": 0.422205,
+        "hf_subset": "lug",
+        "languages": [
+          "lug-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.245604,
+        "v_measure_std": 0.378823,
+        "v_measures": [
+          0.002352,
+          0.03994,
+          1.0,
+          0.104938,
+          0.080789
+        ],
+        "main_score": 0.245604,
+        "hf_subset": "orm",
+        "languages": [
+          "orm-Ethi"
+        ]
+      },
+      {
+        "v_measure": 0.462856,
+        "v_measure_std": 0.345725,
+        "v_measures": [
+          0.023516,
+          0.487268,
+          0.63415,
+          0.169347,
+          1.0
+        ],
+        "main_score": 0.462856,
+        "hf_subset": "pcm",
+        "languages": [
+          "pcm-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.450094,
+        "v_measure_std": 0.451038,
+        "v_measures": [
+          0.101969,
+          0.008393,
+          1.0,
+          0.140109,
+          1.0
+        ],
+        "main_score": 0.450094,
+        "hf_subset": "run",
+        "languages": [
+          "run-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.41854,
+        "v_measure_std": 0.475473,
+        "v_measures": [
+          1.0,
+          0.015098,
+          0.0,
+          0.0776,
+          1.0
+        ],
+        "main_score": 0.41854,
+        "hf_subset": "sna",
+        "languages": [
+          "sna-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.270388,
+        "v_measure_std": 0.369447,
+        "v_measures": [
+          0.106577,
+          1.0,
+          0.010242,
+          0.050858,
+          0.184265
+        ],
+        "main_score": 0.270388,
+        "hf_subset": "som",
+        "languages": [
+          "som-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.146156,
+        "v_measure_std": 0.184329,
+        "v_measures": [
+          0.013113,
+          0.000403,
+          0.005637,
+          0.46371,
+          0.247916
+        ],
+        "main_score": 0.146156,
+        "hf_subset": "swa",
+        "languages": [
+          "swa-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.415715,
+        "v_measure_std": 0.477152,
+        "v_measures": [
+          0.010429,
+          1.0,
+          0.029914,
+          1.0,
+          0.038231
+        ],
+        "main_score": 0.415715,
+        "hf_subset": "tir",
+        "languages": [
+          "tir-Ethi"
+        ]
+      },
+      {
+        "v_measure": 0.225873,
+        "v_measure_std": 0.38733,
+        "v_measures": [
+          0.049452,
+          0.025298,
+          0.009427,
+          0.045189,
+          1.0
+        ],
+        "main_score": 0.225873,
+        "hf_subset": "xho",
+        "languages": [
+          "xho-Latn"
+        ]
+      },
+      {
+        "v_measure": 0.212464,
+        "v_measure_std": 0.393924,
+        "v_measures": [
+          1.0,
+          6.2e-05,
+          0.021678,
+          0.032367,
+          0.008213
+        ],
+        "main_score": 0.212464,
+        "hf_subset": "yor",
+        "languages": [
+          "yor-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 0.8293907642364502,
+  "kg_co2_emissions": null
+}

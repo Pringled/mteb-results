@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "fafcfc4fee815f7017848e54b26c47ece8ff1626",
+  "task_name": "ItaCaseholdClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.364253,
+        "f1": 0.114928,
+        "f1_weighted": 0.348826,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.361991,
+            "f1": 0.117149,
+            "f1_weighted": 0.352514
+          },
+          {
+            "accuracy": 0.316742,
+            "f1": 0.092706,
+            "f1_weighted": 0.301278
+          },
+          {
+            "accuracy": 0.371041,
+            "f1": 0.123935,
+            "f1_weighted": 0.360182
+          },
+          {
+            "accuracy": 0.352941,
+            "f1": 0.102364,
+            "f1_weighted": 0.328197
+          },
+          {
+            "accuracy": 0.38009,
+            "f1": 0.126673,
+            "f1_weighted": 0.350814
+          },
+          {
+            "accuracy": 0.393665,
+            "f1": 0.128078,
+            "f1_weighted": 0.390953
+          },
+          {
+            "accuracy": 0.339367,
+            "f1": 0.106113,
+            "f1_weighted": 0.326039
+          },
+          {
+            "accuracy": 0.39819,
+            "f1": 0.132104,
+            "f1_weighted": 0.396709
+          },
+          {
+            "accuracy": 0.352941,
+            "f1": 0.110562,
+            "f1_weighted": 0.328397
+          },
+          {
+            "accuracy": 0.375566,
+            "f1": 0.109597,
+            "f1_weighted": 0.353177
+          }
+        ],
+        "main_score": 0.364253,
+        "hf_subset": "default",
+        "languages": [
+          "ita-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 3.8386549949645996,
+  "kg_co2_emissions": null
+}

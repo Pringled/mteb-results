@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "7fb2f514ea683c5282dfec0a9672ece8de90ac50",
+  "task_name": "SinhalaNewsClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "train": [
+      {
+        "accuracy": 0.55376,
+        "f1": 0.531516,
+        "f1_weighted": 0.55013,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.536133,
+            "f1": 0.517768,
+            "f1_weighted": 0.544409
+          },
+          {
+            "accuracy": 0.575684,
+            "f1": 0.559518,
+            "f1_weighted": 0.581383
+          },
+          {
+            "accuracy": 0.516602,
+            "f1": 0.494074,
+            "f1_weighted": 0.514351
+          },
+          {
+            "accuracy": 0.526855,
+            "f1": 0.512092,
+            "f1_weighted": 0.530182
+          },
+          {
+            "accuracy": 0.561035,
+            "f1": 0.543906,
+            "f1_weighted": 0.540334
+          },
+          {
+            "accuracy": 0.594238,
+            "f1": 0.565456,
+            "f1_weighted": 0.591155
+          },
+          {
+            "accuracy": 0.577148,
+            "f1": 0.552331,
+            "f1_weighted": 0.572781
+          },
+          {
+            "accuracy": 0.526367,
+            "f1": 0.492078,
+            "f1_weighted": 0.506716
+          },
+          {
+            "accuracy": 0.560059,
+            "f1": 0.527275,
+            "f1_weighted": 0.546931
+          },
+          {
+            "accuracy": 0.563477,
+            "f1": 0.550661,
+            "f1_weighted": 0.573055
+          }
+        ],
+        "main_score": 0.55376,
+        "hf_subset": "default",
+        "languages": [
+          "sin-Sinh"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 0.6330099105834961,
+  "kg_co2_emissions": null
+}

@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "c657d15baf277c48d467f0625f7d33c50d4352ef",
+  "task_name": "KorHateSpeechMLClassification",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.038095,
+        "f1": 0.091318,
+        "lrap": 0.17279,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.023564,
+            "f1": 0.065603,
+            "lrap": 0.151066
+          },
+          {
+            "accuracy": 0.037801,
+            "f1": 0.079777,
+            "lrap": 0.166817
+          },
+          {
+            "accuracy": 0.023564,
+            "f1": 0.068477,
+            "lrap": 0.154148
+          },
+          {
+            "accuracy": 0.033382,
+            "f1": 0.096146,
+            "lrap": 0.172462
+          },
+          {
+            "accuracy": 0.055474,
+            "f1": 0.107966,
+            "lrap": 0.199776
+          },
+          {
+            "accuracy": 0.023564,
+            "f1": 0.089502,
+            "lrap": 0.156657
+          },
+          {
+            "accuracy": 0.043692,
+            "f1": 0.090639,
+            "lrap": 0.179008
+          },
+          {
+            "accuracy": 0.066765,
+            "f1": 0.11208,
+            "lrap": 0.193135
+          },
+          {
+            "accuracy": 0.027982,
+            "f1": 0.082961,
+            "lrap": 0.171971
+          },
+          {
+            "accuracy": 0.045164,
+            "f1": 0.120029,
+            "lrap": 0.182853
+          }
+        ],
+        "main_score": 0.038095,
+        "hf_subset": "default",
+        "languages": [
+          "kor-Hang"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 1.1184320449829102,
+  "kg_co2_emissions": null
+}
