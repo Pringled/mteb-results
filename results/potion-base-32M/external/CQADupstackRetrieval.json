@@ -1,0 +1,19 @@
+{
+  "dataset_revision": "1",
+  "task_name": "CQADupstackRetrieval",
+  "mteb_version": "1.34.4",
+  "scores": {
+    "test": [
+      {
+        "ndcg_at_10": 0.236939,
+        "main_score": 0.236939,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 94.49540209770203,
+  "kg_co2_emissions": NaN
+}

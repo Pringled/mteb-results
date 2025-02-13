@@ -1,32 +1,32 @@
 {
   "dataset_revision": "385e3cb46b4cfa89021f56c4380204149d0efe33",
-  "evaluation_time": 93.87019109725952,
-  "kg_co2_emissions": null,
-  "mteb_version": "1.14.15",
+  "task_name": "RedditClusteringP2P",
+  "mteb_version": "1.34.4",
   "scores": {
     "test": [
       {
+        "v_measure": 0.496416,
+        "v_measure_std": 0.108569,
+        "v_measures": [
+          0.544202,
+          0.55659,
+          0.593476,
+          0.316593,
+          0.533927,
+          0.47219,
+          0.264553,
+          0.568198,
+          0.526322,
+          0.588115
+        ],
+        "main_score": 0.496416,
         "hf_subset": "default",
         "languages": [
           "eng-Latn"
-        ],
-        "main_score": 0.4964164121828545,
-        "v_measure": 0.4964164121828545,
-        "v_measure_std": 0.10856878622391641,
-        "v_measures": [
-          0.5442015431538995,
-          0.5565898198350314,
-          0.5934761350152714,
-          0.316592566245203,
-          0.5339265216478579,
-          0.4721899763038525,
-          0.26455259261106673,
-          0.5681982251350703,
-          0.5263217210845041,
-          0.5881150207967879
         ]
       }
     ]
   },
-  "task_name": "RedditClusteringP2P"
+  "evaluation_time": 33.896596908569336,
+  "kg_co2_emissions": null
 }
